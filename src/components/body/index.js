@@ -7,6 +7,7 @@ import hand from "../../assets/Hand.svg"
 import shop from "../../assets/Shop.png"
 import ticket from "../../assets/Ticket.png"
 import check from "../../assets/Check.png"
+import reviewStars from "../../assets/ReviewStars.svg"
 
 export default function index() {
   return (
@@ -14,7 +15,7 @@ export default function index() {
       <h3 className="text-secondary">You're almost there!</h3>
       <hr />
       <div >
-        <h4 >Bobbi Brown starts (40)</h4>
+        <h4>Bobbi Brown <img src={reviewStars} /> <span className="text-muted" style={{ fontSize: "12px" }}>(40)</span> </h4>
         <div className="d-flex justify-content-between">
           <ul className="mr-5 pl-0">
             <p><img src={calendar} className="mr-2" /> <span>Fri, Feb 22 <img src={clock} className="mx-2" />13:00 PM</span></p>
@@ -22,7 +23,7 @@ export default function index() {
             <p><img src={brushes} className="mr-2" /> <span>1 Product purchase required</span></p>
             <p><img src={hand} className="mr-2" /> <span>Makeup</span></p>
           </ul>
-          <img src={shop} />
+          <img src={shop} className="mr-5 pr-5" />
         </div>
       </div>
       <hr />
@@ -56,7 +57,6 @@ export default function index() {
         </div>
         <div className="form-row">
           <div className="col">
-            {/* <input type="text" className="form-control w-50" placeholder="ilovemonique"></input> */}
             <div className="input-group flex-nowrap w-50">
               <div className="input-group-prepend">
                 <img src={ticket} className="border-right-0 input-group-text bg-white" />
