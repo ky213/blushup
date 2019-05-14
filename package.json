@@ -1,6 +1,6 @@
 {
   "name": "blushup",
-  "homepage" : "http://ky213.github.io/blushup",
+  "homepage": "http://ky213.github.io/blushup",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
