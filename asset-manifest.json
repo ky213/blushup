@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/blushup/static/css/main.d56d6d6d.chunk.css",
+    "main.js": "/blushup/static/js/main.11bf42d0.chunk.js",
+    "main.js.map": "/blushup/static/js/main.11bf42d0.chunk.js.map",
+    "runtime~main.js": "/blushup/static/js/runtime~main.ee26e323.js",
+    "runtime~main.js.map": "/blushup/static/js/runtime~main.ee26e323.js.map",
+    "static/css/2.266e55a5.chunk.css": "/blushup/static/css/2.266e55a5.chunk.css",
+    "static/js/2.a2efd4c4.chunk.js": "/blushup/static/js/2.a2efd4c4.chunk.js",
+    "static/js/2.a2efd4c4.chunk.js.map": "/blushup/static/js/2.a2efd4c4.chunk.js.map",
+    "index.html": "/blushup/index.html",
+    "precache-manifest.346374268d9f77d138272f7a6b3317ef.js": "/blushup/precache-manifest.346374268d9f77d138272f7a6b3317ef.js",
+    "service-worker.js": "/blushup/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/blushup/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.d56d6d6d.chunk.css.map": "/blushup/static/css/main.d56d6d6d.chunk.css.map",
+    "static/media/Hand.svg": "/blushup/static/media/Hand.8c3d1d55.svg",
+    "static/media/ReviewStars.svg": "/blushup/static/media/ReviewStars.3bfaf44a.svg",
+    "static/media/Shop.png": "/blushup/static/media/Shop.75581d20.png",
+    "static/media/facebook.png": "/blushup/static/media/facebook.8f5ce275.png",
+    "static/media/linkedin.png": "/blushup/static/media/linkedin.fd0d5546.png",
+    "static/media/logo.svg": "/blushup/static/media/logo.fd3f05c9.svg",
+    "static/media/twitter.png": "/blushup/static/media/twitter.0251d8ee.png"
+  }
+}
