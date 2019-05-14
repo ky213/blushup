@@ -1,5 +1,6 @@
 {
   "name": "blushup",
+  "homepage" : "http://ky213.github.io/blushup",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
