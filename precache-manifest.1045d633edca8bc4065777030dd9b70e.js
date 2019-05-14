@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a17841d1a85d1b706c59a15d100577a",
+    "revision": "42cbe7d621e9854fb433631854f2a4fc",
     "url": "/blushup/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blushup/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "360460bfc53889ae00e2",
+    "revision": "102c10c50ebf9db5a5f0",
     "url": "/blushup/static/css/main.d56d6d6d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blushup/static/js/2.a2efd4c4.chunk.js"
   },
   {
-    "revision": "360460bfc53889ae00e2",
-    "url": "/blushup/static/js/main.11bf42d0.chunk.js"
+    "revision": "102c10c50ebf9db5a5f0",
+    "url": "/blushup/static/js/main.d9125b43.chunk.js"
   },
   {
     "revision": "3fce3bee15cb98eefeff",
